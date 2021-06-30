@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Miss. Nandini Jalan (STEP'20 intern at Google). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/channel/UCiJIZwRcPvNaEpM0Wd6xafA/featured"></a>
+<li><a href="https://www.youtube.com/channel/UCiJIZwRcPvNaEpM0Wd6xafA/search?query=Python%20and%20Data%20Analytics">YouTube</a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Data Analysis
@@ -19,7 +19,7 @@ or follow SHAPEAI on:
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+"https://www.youtube.com/channel/UCiJIZwRcPvNaEpM0Wd6xafA/featured">YouTu
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
